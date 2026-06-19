@@ -1,0 +1,4 @@
+# Salman Lindstedt - licensnycklar (sha256-hashar). En rad per kund.
+# Format: <hash>;<utgangsdatum YYYY-MM-DD eller tomt>;<namn/kommentar>
+# Lagg till med tools\Generera-Licens.ps1. Ta bort raden for att sparra en kund.
+e021f7ed4823ea3aececdc90b7095697eb4d9b7eceb28dca3fe71a71c36b0079;;Salman Lindstedt
