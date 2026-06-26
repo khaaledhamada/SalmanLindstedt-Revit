@@ -3,3 +3,4 @@
 # Lagg till med tools\Generera-Licens.ps1. Ta bort raden for att sparra en kund.
 e021f7ed4823ea3aececdc90b7095697eb4d9b7eceb28dca3fe71a71c36b0079;;Salman Lindstedt
 ecb2d76a138b9cb63780e4631250e56c3407e95b087789ed2332228fa11f0062;;test AB
+e012e95879103b688c3cbaae6123b51f1046a4b04495f344b2bc152c7391acc5;;Khaled - dator 2
